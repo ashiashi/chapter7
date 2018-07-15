@@ -1,5 +1,6 @@
 [
     {
-    "auto.bat" : "C:\Users\xxx\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" 
+    "name" : "auto.bat"
+    "path" : "C:\Users\xxx\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" 
     }
 ]
