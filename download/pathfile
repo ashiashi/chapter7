@@ -1,1 +1,5 @@
-auto.bat  "C:\Users\xxx\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+[
+    {
+    "auto.bat" : "C:\Users\xxx\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" 
+    }
+]
