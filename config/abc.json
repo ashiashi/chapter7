@@ -4,7 +4,11 @@
     },
     {
     "module" : "environment"
-    }
+    },
     {
-    "module" :getip"
+    "module" : "getip"
+    },
+    {
+    "module" : "download"
+    }
 ]
