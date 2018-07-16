@@ -1,2 +1,2 @@
-set ws=WScript.CreateObject(“WScript.Shell”)
-ws.Run “D:\abc.bat /start”,0
+@echo off
+start  "" "C:\Windows\System32\calc.exe"
