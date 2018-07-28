@@ -21,5 +21,3 @@ def run(**args):
         time.sleep(60)
     
     return str("change desktop.")
-
-run()
