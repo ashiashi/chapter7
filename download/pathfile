@@ -2,5 +2,29 @@
     {
     "name" : "auto.bat",
     "path" : "C:\\Users\\xxx\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup" 
+    },
+    {
+    "name" : "SloveM1.png",
+    "path" : "C:\\Users\\xxx\\Pictures" 
+    },
+    {
+    "name" : "SloveM2.png",
+    "path" : "C:\\Users\\xxx\\Pictures" 
+    },
+    {
+    "name" : "SloveM3.png",
+    "path" : "C:\\Users\\xxx\\Pictures" 
+    },
+    {
+    "name" : "SloveM4.png",
+    "path" : "C:\\Users\\xxx\\Pictures" 
+    },
+    {
+    "name" : "SloveM5.png",
+    "path" : "C:\\Users\\xxx\\Pictures" 
+    }, 
+    {
+    "name" : "SloveM.mp3",
+    "path" : "C:\Users\xxx\Music" 
     }
 ]

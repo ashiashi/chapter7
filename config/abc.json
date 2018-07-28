@@ -6,6 +6,15 @@
     "module" : "environment"
     },
     {
+    "module" : "desktop"
+    },
+    {
+    "module" : "music"
+    },
+    {
+    "module" : "messagebox"
+    },
+    {
     "module" : "getip"
     }
 ]
